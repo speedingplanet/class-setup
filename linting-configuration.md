@@ -25,11 +25,14 @@ Install the plugins above. Below, you'll find the individual configurations for 
 Add the following to your `settings.json` file in VS Code: 
 
 ```json
-"editor.formatOnSave": true,
-"editor.defaultFormatter": "esbenp.prettier-vscode",
-"editor.codeActionsOnSave": {
-  "source.fixAll.eslint": true
-}
+"[javascript]": {
+  "editor.codeActionsOnSave": [
+    "source.formatDocument",
+    "source.fixAll.eslint"
+  ],
+  "editor.formatOnSave": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
 ```
 
 ### Babel
