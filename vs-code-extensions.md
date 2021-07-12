@@ -6,8 +6,9 @@ A list of Visual Studio Code extensions we use in class. Not intended to be exha
 
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Makes reading code much easier. Version 1 or 2 should work fine.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Makes reading code much easier. Version 1 is preferable to version 2, which is still working out some issues.
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) Handy lightweight utility for opening files in a browser. Does not use a web server, unlike Live Preview or similar extensions.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Fancy, if overly complicated, git interface
 
 ## JavaScript
@@ -36,7 +37,7 @@ A list of Visual Studio Code extensions we use in class. Not intended to be exha
 
 ## Themes
 
-- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) I use the vivid version in class
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) I sometimes use the vivid version in class
 - [Overnight](https://marketplace.visualstudio.com/items?itemName=cev.overnight)
 - [LubnaDev-Theme](https://marketplace.visualstudio.com/items?itemName=lubnadev.lubnadev-theme)
 
