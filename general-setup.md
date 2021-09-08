@@ -5,7 +5,7 @@ any course on a computer with a modern processor, 8GB+ of RAM and at least 250GB
 
 Courses are intended to be run on a computer with Administrative access, at least at the point of install of the software below. 
 
-Courses is not intended to run on a tablet, such as an Apple iPad or a Windows Surface or similar. 
+Courses are **not** intended to run on a tablet, such as an Apple iPad or a Windows Surface or similar. 
 
 ## Required Software
 
@@ -38,4 +38,12 @@ These will make your development experience better.
 
 - Terminal: [iTerm2](https://www.iterm2.com/) or [Hyper](https://hyper.is/)
 - Shell: [Fish](https://fishshell.com/) or [zsh](http://zsh.sourceforge.net/), though bash is fine
+
+## Class-specific setup
+
+### Vue.js
+
+- For Visual Studio Code, check out the [Vue.js section](vs-code-extensions.md#vuejs) in the VS Code setup doc.  
+- [Vue.js devools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+
 
