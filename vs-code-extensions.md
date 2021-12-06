@@ -4,12 +4,12 @@ A list of Visual Studio Code extensions we use in courses. Not intended to be ex
 
 ## General
 
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-- [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) ONLY NEEDED FOR VS CODE 1.59 OR EARLIER. Makes reading code much easier. **Version 1 is preferable** to version 2, which is still working out some issues.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) Handy lightweight utility for opening files in a browser. Does not use a web server, unlike Live Preview or similar extensions.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Fancy, if overly complicated, git interface; great for comparing branches
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) ONLY NEEDED FOR VS CODE 1.59 OR EARLIER. Makes reading code much easier. **Version 1 is preferable** to version 2, which is still working out some issues.
 
 ## JavaScript
 
