@@ -9,7 +9,7 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
 
 ## Required Software
 
-- [Node.js](https://nodejs.org): the engine for most JavaScript classes. You should download either the LTS (v14.x at the moment) or the Current (v15.x) version. Class usually supports LTS - 1 (v12.x in this case).
+- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 14 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
 - [Git](https://git-scm.com/): Source control management, also used by many tools
 - A web browser, can be any of
   - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
