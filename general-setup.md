@@ -1,4 +1,4 @@
-# General setup for JavaScript classes
+# General setup for Front-end JavaScript classes
 
 Courses can be conducted on Windows 8 or later, MacOS X Mojave (10.18) or later, and Linux (most modern versions). We recommend running
 any course on a computer with a modern processor, 8GB+ of RAM and at least 250GB of disk space. 
@@ -9,13 +9,13 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
 
 ## Required Software
 
-- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 14 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
-- [Git](https://git-scm.com/): Source control management, also used by many tools
+- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 16 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
+- [Git](https://git-scm.com/): Source control management, also used by many tools; version 2.25 or later strongly preferred
 - A web browser, can be any of
   - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
   - [Chrome](https://www.google.com/chrome/)
   - [Edge](https://www.microsoft.com/en-us/edge)
-  - Other browsers (Internet Explorer, Safari, Brave, Opera, etc. may work in class but are not officially supported)
+  - Other browsers (Internet Explorer, Safari, Brave, Opera, etc. may work in class but are not supported and may lack critical features)
 - An editor
   - [Visual Studio Code](https://code.visualstudio.com/) is strongly preferred, but others are available
     - Check out some [recommended extensions](vs-code-extensions.md) for VS Code.
@@ -41,9 +41,10 @@ These will make your development experience better.
 
 ## Class-specific setup
 
-### Vue.js
+Here you can find links to class-specific setups:
 
-- For Visual Studio Code, check out the [Vue.js section](vs-code-extensions.md#vuejs) in the VS Code setup doc.  
-- [Vue.js devools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
+- [Vue.js](vue-configuration.md)
+- [React](react-configuration.md)
+
 
 
