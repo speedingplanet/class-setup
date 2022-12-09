@@ -48,15 +48,4 @@ These make the experience of using VS Code nicer. Not required.
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) Run npm scripts inside the editor
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) Plugs into the Jest testing library.
 
-## React
 
-- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Terrible name, good snippets. Be careful of imitation/fake/duplicate versions
-
-## Angular
-
-- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-- [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-
-## Vue.js
-
-- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
