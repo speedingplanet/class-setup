@@ -9,8 +9,9 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
 
 ## Required Software
 
-- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 16 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
-- [Git](https://git-scm.com/): Source control management, also used by many tools; version 2.25 or later strongly preferred
+- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 18 or later should be sufficient for class.
+  - If you need to manage multiple versions of Node.js, you can use [nvm](https://github.com/nvm-sh/nvm) or [n](https://github.com/tj/n) for Mac or Linux or [nvm for Windows](https://github.com/coreybutler/nvm-windows) for Windows.
+- [Git](https://git-scm.com/): Source control management, also used by many tools; version 2.30 or later strongly preferred
 - A web browser, can be any of
   - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
   - [Chrome](https://www.google.com/chrome/)
@@ -32,12 +33,14 @@ These will make your development experience better.
 
 ### Windows
 
-- Command prompt: [Cmder](https://cmder.net/) or [Hyper](https://hyper.is/)
+- [Windows Terminal](https://aka.ms/terminal)
+- [Hyper](https://hyper.is/)
+- [Cmder](https://cmder.app/)
 
 ### MacOS
 
 - Terminal: [iTerm2](https://www.iterm2.com/) or [Hyper](https://hyper.is/)
-- Shell: [Fish](https://fishshell.com/) or [zsh](http://zsh.sourceforge.net/), though bash is fine
+- Shell: [zsh](http://zsh.sourceforge.net/) or [Fish](https://fishshell.com/), though bash is fine
 
 ## Class-specific setup
 
