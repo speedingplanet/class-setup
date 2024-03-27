@@ -31,8 +31,8 @@ None of these are required. But folks sometimes ask what I'm using.
 
 These make the experience of using VS Code nicer. Not required.
 
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) Colors VS Code according to your project (red for Angular, blue for React, etc.; can customize according to prefs)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## JavaScript
 
@@ -40,12 +40,10 @@ These make the experience of using VS Code nicer. Not required.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) code style enforcer (and also formatter)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter
-  - To configure these two together, look at [this doc](linting-configuration.md).
 
 ### Optional
 
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) Run npm scripts inside the editor
-- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) Plugs into the Jest testing library.
 
 
