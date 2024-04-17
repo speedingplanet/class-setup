@@ -13,7 +13,7 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
 
 ### Required Software
 
-- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 16 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
+- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 18 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
 - [Git](https://git-scm.com/): Source control management, also used by many tools; version 2.25 or later strongly preferred
 - A web browser, can be any of
   - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
@@ -36,12 +36,12 @@ These will make your development experience better.
 
 #### Windows
 
-- Command prompt: [Cmder](https://cmder.net/) or [Hyper](https://hyper.is/)
+- Command prompt: [Cmder](https://cmder.app/) or [Hyper](https://hyper.is/)
 
 #### MacOS
 
 - Terminal: [iTerm2](https://www.iterm2.com/) or [Hyper](https://hyper.is/)
-- Shell: [Fish](https://fishshell.com/) or [zsh](http://zsh.sourceforge.net/), though bash is fine
+- Shell: [zsh](http://zsh.sourceforge.net/), though bash is fine
 
 ## Visual Studio Code Extensions
 
@@ -55,12 +55,6 @@ These will actually make your experience in VS Code better:
 
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-
-#### Optional
-
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
-- [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) Handy lightweight utility for opening files in a browser. Does not use a web server, unlike Live Preview or similar extensions.
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Fancy, if overly complicated, git interface; great for comparing branches
 
 ### Themes
 
@@ -91,7 +85,6 @@ These make the experience of using VS Code nicer. Not required.
 
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) Run npm scripts inside the editor
-- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) Plugs into the Jest testing library.
 
 ## React configuration
 
@@ -99,7 +92,7 @@ Additional configuration for classes which cover or use React
 
 - Definitely use the [React Dev Tools](https://beta.reactjs.org/learn/react-developer-tools), also mentioned at the beta docs
 - Visual Studio Code setup
-  - The React Beta Docs have a great [setup](https://beta.reactjs.org/learn/editor-setup) doc for Visual Studio Code. 
+  - The React Beta Docs have a great [setup](https://react.dev/learn/react-developer-tools) doc for Visual Studio Code. 
   - As an extension, you should install [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Terrible name, good snippets. Be careful of imitation/fake/duplicate versions
   - We don't have a recommended extension for GraphQL at the moment. All the available extensions are mediocre at best. We will talk about options when class starts. 
 
