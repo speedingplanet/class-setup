@@ -5,11 +5,11 @@ This is a front-end focused class, accessing Apollo Client via React.
 ## General setup for Front-end JavaScript classes
 
 Courses can be conducted on Windows 8 or later, MacOS X Mojave (10.18) or later, and Linux (most modern versions). We recommend running
-any course on a computer with a modern processor, 8GB+ of RAM and at least 250GB of disk space. 
+any course on a computer with a modern processor, 8GB+ of RAM and at least 250GB of disk space.
 
-Courses are intended to be run on a computer with Administrative access, at least at the point of install of the software below. 
+Courses are intended to be run on a computer with Administrative access, at least at the point of install of the software below.
 
-Courses are **not** intended to run on a tablet, such as an Apple iPad or a Windows Surface or similar. 
+Courses are **not** intended to run on a tablet, such as an Apple iPad or a Windows Surface or similar.
 
 ### Required Software
 
@@ -28,7 +28,7 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
   - Notepad++, Atom, TextMate, etc.: if you can't install any of the above
   - Eclipse is not a viable choice. JavaScript support on Eclipse is a disaster.
   - Notepad is not a viable choice. It does not have enough features for you to be a productive developer
-- Class source code. A GitHub repository for the class source code will be set up in time for class. It will include demos, labs, and other materials as appropriate. 
+- Class source code. A GitHub repository for the class source code will be set up in time for class. It will include demos, labs, and other materials as appropriate.
 
 ### Optional Software
 
@@ -36,7 +36,7 @@ These will make your development experience better.
 
 #### Windows
 
-- Command prompt: [Cmder](https://cmder.net/) or [Hyper](https://hyper.is/)
+- Command prompt: [Cmder](https://cmder.app/) or [Hyper](https://hyper.is/)
 
 #### MacOS
 
@@ -91,17 +91,10 @@ These make the experience of using VS Code nicer. Not required.
 
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) Run npm scripts inside the editor
-- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest) Plugs into the Jest testing library.
 
 ## React configuration
 
 Additional configuration for classes which cover or use React
 
-- Definitely use the [React Dev Tools](https://beta.reactjs.org/learn/react-developer-tools), also mentioned at the beta docs
 - Visual Studio Code setup
-  - The React Beta Docs have a great [setup](https://beta.reactjs.org/learn/editor-setup) doc for Visual Studio Code. 
-  - As an extension, you should install [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Terrible name, good snippets. Be careful of imitation/fake/duplicate versions
-  - We don't have a recommended extension for GraphQL at the moment. All the available extensions are mediocre at best. We will talk about options when class starts. 
-
-
-
+  - We don't have a recommended extension for GraphQL at the moment. All the available extensions are mediocre at best. We will talk about options when class starts.
