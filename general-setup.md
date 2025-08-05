@@ -1,4 +1,4 @@
-# General setup for JavaScript classes
+# General setup for Front-end JavaScript classes
 
 Courses can be conducted on Windows 8 or later, MacOS X Mojave (10.18) or later, and Linux (most modern versions). We recommend running
 any course on a computer with a modern processor, 8GB+ of RAM and at least 250GB of disk space.
@@ -9,7 +9,7 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
 
 ## Required Software
 
-- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Please use at least the most recent long term support (LTS) version (currently 22.x).Older versions are possible, with advanced notice and development time.
+- [Node.js](https://nodejs.org/en/download): the engine for most JavaScript classes. Please use at least the most recent long term support (LTS) version (currently 22.x). Older versions are possible, with advanced notice and development time.
 - [Git](https://git-scm.com/): Source control management, also used by many tools; version 2.25 or later strongly preferred.
 - A web browser, can be any of
   - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
@@ -32,11 +32,11 @@ These will make your development experience better.
 
 ### Windows
 
-- Command prompt: [Cmder](https://cmder.app/) or [Hyper](https://hyper.is/)
+- Command prompt: [Windows Terminal](https://aka.ms/terminal) or [Cmder](https://cmder.app/) or similar
 
 ### MacOS
 
-- Terminal: [iTerm2](https://www.iterm2.com/) or [Hyper](https://hyper.is/)
+- Terminal: [iTerm2](https://www.iterm2.com/) or something similar
 - Shell: [zsh](http://zsh.sourceforge.net/) or [Fish](https://fishshell.com/), though bash is fine
 
 ## Class-specific setup
