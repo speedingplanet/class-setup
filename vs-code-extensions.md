@@ -40,9 +40,3 @@ None of these are required. But folks sometimes ask what I'm using.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter
   - To configure these two together, look at [this doc](linting-configuration.md).
 
-### Recommended
-
-- [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) Run npm scripts inside the editor
-
-
