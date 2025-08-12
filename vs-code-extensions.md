@@ -2,6 +2,13 @@
 
 A list of Visual Studio Code extensions we use in courses. Not intended to be exhaustive. All of these are optional.
 
+## JavaScript
+
+### Required
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) code style enforcer (and also formatter)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter
+
 ## General
 
 ### Strongly Recommended
@@ -32,11 +39,5 @@ None of these are required. But folks sometimes ask what I'm using.
 
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) 
 
-## JavaScript
 
-### Strongly recommended
-
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) code style enforcer (and also formatter)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter
-  - To configure these two together, look at [this doc](linting-configuration.md).
 
