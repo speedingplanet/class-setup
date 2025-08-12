@@ -4,7 +4,7 @@ Additional configuration for classes which cover or use React
 
 ## Browser
 
-- Definitely use the [React Dev Tools](https://react.dev/learn/react-developer-tools), mentioned above in the React docs. We will definitely be using this in class. 
+- Definitely use the [React Dev Tools](https://react.dev/learn/react-developer-tools), mentioned above in the React docs. We will definitely be using this in class. This is a browser extension, available for most browsers.
 - If the class is going to use Redux, you should install the [Redux DevTools](https://github.com/reduxjs/redux-devtools) appropriate to your browser. We will also be using this in class. 
 
 
