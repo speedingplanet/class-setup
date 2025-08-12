@@ -13,13 +13,13 @@ Courses are **not** intended to run on a tablet, such as an Apple iPad or a Wind
 
 ### Required Software
 
-- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 16 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
+- [Node.js](https://nodejs.org): the engine for most JavaScript classes. Node version 20 or later should be sufficient for class. Older versions are possible, with advanced notice and development time.
 - [Git](https://git-scm.com/): Source control management, also used by many tools; version 2.25 or later strongly preferred
 - A web browser, can be any of
   - [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)
   - [Chrome](https://www.google.com/chrome/)
   - [Edge](https://www.microsoft.com/en-us/edge)
-  - Other browsers (Internet Explorer, Safari, Brave, Opera, etc. may work in class but are not supported and may lack critical features)
+  - Other browsers (Internet Explorer, Safari, Brave, Opera, etc.) may work in class but are not supported and may lack critical features
 - An editor
   - [Visual Studio Code](https://code.visualstudio.com/) is strongly preferred, but others are available
     - Check out some [recommended extensions](vs-code-extensions.md) for VS Code.
@@ -36,12 +36,12 @@ These will make your development experience better.
 
 #### Windows
 
-- Command prompt: [Cmder](https://cmder.app/) or [Hyper](https://hyper.is/)
+- Command prompt: [Windows Terminal](https://aka.ms/terminal) or [Cmder](https://cmder.app/) or similar
 
 #### MacOS
 
-- Terminal: [iTerm2](https://www.iterm2.com/) or [Hyper](https://hyper.is/)
-- Shell: [Fish](https://fishshell.com/) or [zsh](http://zsh.sourceforge.net/), though bash is fine
+- Terminal: [iTerm2](https://www.iterm2.com/) or something similar
+- Shell: [zsh](http://zsh.sourceforge.net/) or [Fish](https://fishshell.com/), though bash is fine
 
 ## Visual Studio Code Extensions
 
@@ -58,8 +58,8 @@ These will actually make your experience in VS Code better:
 
 #### Optional
 
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) Handy lightweight utility for opening files in a browser. Does not use a web server, unlike Live Preview or similar extensions.
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Fancy, if overly complicated, git interface; great for comparing branches
 
 ### Themes
@@ -85,7 +85,7 @@ These make the experience of using VS Code nicer. Not required.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) code style enforcer (and also formatter)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) code formatter
-  - To configure these two together, look at [this doc](linting-configuration.md).
+
 
 #### Optional
 
