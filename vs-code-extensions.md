@@ -16,7 +16,6 @@ A list of Visual Studio Code extensions we use in courses. Not intended to be ex
 These will actually make your experience in VS Code better:
 
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) Colors VS Code according to your project (red for Angular, blue for React, etc.; can customize according to prefs)
 
 ### Generally recommended
