@@ -1,6 +1,6 @@
-# Setup for Node.js classes
+# Setup for GraphQL classes
 
-This is the setup document for Speeding Planet's Node.js course. 
+This is the setup document for Speeding Planet's GraphQL course. 
 
 Courses can be conducted on Windows 8 or later, MacOS X Mojave (10.18) or later, and Linux (most modern versions). We recommend running any course on a computer with a modern processor, 8GB+ of RAM and at least 250GB of disk space.
 
@@ -86,3 +86,5 @@ Please read [A Note On AI](a-note-on-ai.md).
 ## Questions?
 
 Please contact your instructor!
+
+
